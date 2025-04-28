@@ -1,0 +1,1167 @@
+[
+  {
+    "timestamp": "2025-04-27T22:31:09.918Z",
+    "userId": 1745600291942,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Max",
+      "inventory": {
+        "food": 107,
+        "toy": 65,
+        "treat": 41
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:31:15.118Z",
+    "userId": 1745600291942,
+    "petId": 4,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Bella",
+      "inventory": {
+        "food": 110,
+        "toy": 67,
+        "treat": 42
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:31:25.481Z",
+    "userId": 1745600291942,
+    "petId": 3,
+    "action": "feed",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "happiness": 100
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:31:27.601Z",
+    "userId": 1745600291942,
+    "petId": 5,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Ziggy",
+      "inventory": {
+        "food": 118,
+        "toy": 72,
+        "treat": 45
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:33:06.738Z",
+    "userId": 1745600291942,
+    "petId": 14,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Loki",
+      "inventory": {
+        "food": 123,
+        "toy": 75,
+        "treat": 47
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:33:40.131Z",
+    "userId": 1745600291942,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Max",
+      "inventory": {
+        "food": 138,
+        "toy": 84,
+        "treat": 53
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:33:54.863Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:33:55.250Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:33:55.456Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:35:35.854Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:35:36.556Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:36:30.209Z",
+    "userId": 1745600291942,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 135,
+        "toy": 82,
+        "treat": 53
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:37:18.954Z",
+    "userId": 1745600291942,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 135,
+        "toy": 82,
+        "treat": 53
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:38:08.079Z",
+    "userId": 1745600291942,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 135,
+        "toy": 82,
+        "treat": 53
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:31.845Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:34.188Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:34.852Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:40.748Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:41.537Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:41.976Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:42.529Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:42.919Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:43.375Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:43.828Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:44.274Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:44.693Z",
+    "userId": 1745793505315,
+    "petId": 10,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Rocky",
+      "inventory": {
+        "food": 6,
+        "toy": 1,
+        "treat": 5
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:47.713Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:48.908Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:49.162Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:49.346Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:49.524Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:49.671Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:50.003Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:50.169Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:39:58.915Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:00.131Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:01.487Z",
+    "userId": 1745793505315,
+    "petId": 7,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Charlie",
+      "inventory": {
+        "food": 4,
+        "toy": 1,
+        "treat": 11
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:09.384Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:10.147Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:10.486Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:10.831Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:11.082Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:40:27.851Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:00.239Z",
+    "userId": 1745793505315,
+    "petId": 13,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Mochi",
+      "inventory": {
+        "food": 10,
+        "toy": 5,
+        "treat": 15
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:06.468Z",
+    "userId": 1745793505315,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 10,
+        "toy": 6,
+        "treat": 15
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:09.505Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:10.356Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:10.675Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:11.144Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:11.439Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:20.576Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:21.209Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:21.438Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:33.383Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:34.126Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:34.306Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:50.930Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:51.596Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:52.144Z",
+    "userId": 1745793505315,
+    "petId": 15,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Bailey",
+      "inventory": {
+        "food": 17,
+        "toy": 10,
+        "treat": 21
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:41:53.523Z",
+    "userId": 1745793505315,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Max",
+      "inventory": {
+        "food": 17,
+        "toy": 10,
+        "treat": 21
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:19.395Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:20.380Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:55.363Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:56.288Z",
+    "userId": 1745793505315,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Max",
+      "inventory": {
+        "food": 20,
+        "toy": 12,
+        "treat": 23
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:56.944Z",
+    "userId": 1745793505315,
+    "petId": 4,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Bella",
+      "inventory": {
+        "food": 20,
+        "toy": 12,
+        "treat": 23
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:42:57.626Z",
+    "userId": 1745793505315,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 20,
+        "toy": 12,
+        "treat": 23
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:01.348Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:02.487Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:02.928Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:03.282Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:03.589Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:04.065Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:04.464Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:04.830Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:05.245Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:05.555Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:05.880Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:06.166Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:12.425Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:13.390Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:23.479Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:24.212Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:32.240Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:32.882Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:33.077Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:56.221Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:43:56.507Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:20.058Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:20.923Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:26.984Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:27.728Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:28.718Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:29.178Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:52.755Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:53.021Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:53.450Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:44:55.545Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:03.743Z",
+    "userId": 1745793505315,
+    "petId": 12,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Duke",
+      "inventory": {
+        "food": 18,
+        "toy": 7,
+        "treat": 29
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:11.575Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:12.477Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:15.520Z",
+    "action": "play",
+    "details": {
+      "success": true,
+      "message": "Played with pet successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:16.338Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:45:31.514Z",
+    "userId": 1745793505315,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Max",
+      "inventory": {
+        "food": 21,
+        "toy": 8,
+        "treat": 31
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:18.942Z",
+    "userId": 1745793505315,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 21,
+        "toy": 8,
+        "treat": 31
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:22.399Z",
+    "userId": 1745793505315,
+    "petId": 2,
+    "action": "return",
+    "details": {
+      "userName": "admin",
+      "petName": "Max",
+      "inventory": {
+        "food": 21,
+        "toy": 8,
+        "treat": 31
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:43.088Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:45.221Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:45.506Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:45.695Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:45.870Z",
+    "action": "feed",
+    "details": {
+      "success": true,
+      "message": "Pet fed successfully"
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:46:46.327Z",
+    "userId": 1745600291942,
+    "petId": 6,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Milo",
+      "inventory": {
+        "food": 135,
+        "toy": 85,
+        "treat": 55
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:52:17.231Z",
+    "userId": 1745794318647,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "Gym",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 6,
+        "toy": 13,
+        "treat": 5
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-27T22:55:39.146Z",
+    "userId": 1745794318647,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "Gym",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 6,
+        "toy": 13,
+        "treat": 5
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:34:57.656Z",
+    "userId": 1745599870603,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 6,
+        "toy": 3,
+        "treat": 2
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:35:02.129Z",
+    "userId": 1745599870603,
+    "petId": 9,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Lucy",
+      "inventory": {
+        "food": 11,
+        "toy": 6,
+        "treat": 4
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:38:05.146Z",
+    "userId": 1745599870603,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 16,
+        "toy": 9,
+        "treat": 6
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:39:00.098Z",
+    "userId": 1745847530145,
+    "petId": 3,
+    "action": "return",
+    "details": {
+      "userName": "admin1",
+      "petName": "Oliver",
+      "inventory": {
+        "food": 5,
+        "toy": 4,
+        "treat": 4
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:40:12.241Z",
+    "userId": 1745847530145,
+    "petId": 1,
+    "action": "return",
+    "details": {
+      "userName": "admin1",
+      "petName": "Luna",
+      "inventory": {
+        "food": 15,
+        "toy": 10,
+        "treat": 8
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-28T13:43:45.862Z",
+    "userId": 1745600291942,
+    "petId": 4,
+    "action": "return",
+    "details": {
+      "userName": "ferhat goksel",
+      "petName": "Bella",
+      "inventory": {
+        "food": 135,
+        "toy": 85,
+        "treat": 55
+      }
+    }
+  }
+]
